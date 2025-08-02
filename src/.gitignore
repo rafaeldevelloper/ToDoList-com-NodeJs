@@ -1,0 +1,28 @@
+# Dependências
+node_modules/
+
+# Dados do projeto (pode ser incluído se você quiser que cada dev tenha seu próprio arquivo de tarefas)
+tasks.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambientes e segredos (caso use no futuro)
+.env
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Build (futuro)
+dist/
+build/
